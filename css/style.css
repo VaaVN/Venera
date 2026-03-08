@@ -278,6 +278,7 @@ footer {
   position: absolute;
   top: -25%;
   left: -10%;
+  width: 60svw;
 }
 .contactForm {
   display: flex;

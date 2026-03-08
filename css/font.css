@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Kelson Sans RU";
+  src: url(../assets/fonts/KelsonSansRU-Bold.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Kelson Sans RU";
+  src: url(../assets/fonts/KelsonSansRU-Light.ttf) format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
